@@ -1,0 +1,180 @@
+PatientID,BirthYear,City,State,Country
+18022,1992,Lewiston,Maine,United States
+18024,1981,West Mifflin,Pennsylvania,United States
+18051,1966,Saint George,Utah,United States
+18114,1996,Grand Forks,North Dakota,United States
+18147,1975,Rancho Palos Verdes,California,United States
+18159,1993,North Platte,Nebraska,United States
+18170,2000,Woburn,Massachusetts,United States
+18205,1990,Columbus,Indiana,United States
+18207,1998,Hereford,Texas,United States
+18245,1971,Twin Falls,Idaho,United States
+18276,1999,Rutland,Vermont,United States
+18278,1997,San Ramon,California,United States
+18294,1992,Idaho Falls,Idaho,United States
+18297,1994,South Milwaukee,Wisconsin,United States
+18345,1982,Rosemount,Minnesota,United States
+18350,1994,Peoria,Arizona,United States
+18378,1998,Wilmington,Delaware,United States
+18379,1968,Indianapolis,Indiana,United States
+18392,1984,Strongsville,Ohio,United States
+18401,1994,Somerset,New Jersey,United States
+18405,1985,San Carlos,California,United States
+18435,1999,Madison,New Jersey,United States
+18440,1978,Evansville,Indiana,United States
+18449,1998,Minot,North Dakota,United States
+18464,1995,Livingston,New Jersey,United States
+18484,1993,Union City,Georgia,United States
+18526,1954,Decatur,Alabama,United States
+18535,1989,Colonia,New Jersey,United States
+18548,1980,Spring Valley,California,United States
+18549,1997,Salem,Massachusetts,United States
+18558,1983,Santee,California,United States
+18564,1996,Hoover,Alabama,United States
+18644,1988,Pittsburg,Kansas,United States
+18688,1966,Appleton,Wisconsin,United States
+18711,1986,Central Falls,Rhode Island,United States
+18748,1993,Brent,Florida,United States
+18754,1993,Worcester,Massachusetts,United States
+18762,1996,King of Prussia,Pennsylvania,United States
+18841,1995,Bethlehem,Pennsylvania,United States
+18845,1973,Wasco,California,United States
+18847,1999,Shafter,California,United States
+18947,1999,Allison Park,Pennsylvania,United States
+18955,1999,Peabody,Massachusetts,United States
+18977,1985,Rochester,Minnesota,United States
+19022,1983,San Clemente,California,United States
+19129,1982,Saco,Maine,United States
+19147,1993,San Angelo,Texas,United States
+19174,1996,Frankfort,Kentucky,United States
+19216,1977,Granite City,Illinois,United States
+19246,1998,Santa Clarita,California,United States
+19327,2000,Sayreville,New Jersey,United States
+19340,1984,San Bernardino,California,United States
+19362,1971,Rahway,New Jersey,United States
+19419,1995,De Pere,Wisconsin,United States
+19420,1984,Upper Alton,Illinois,United States
+19446,1996,Erlanger,Kentucky,United States
+19453,1989,Marlboro,New Jersey,United States
+19488,1979,Santa Fe,New Mexico,United States
+19530,2000,Roselle,New Jersey,United States
+19533,1994,Parsippany,New Jersey,United States
+19534,1994,Elko,Nevada,United States
+19542,1999,East Brunswick,New Jersey,United States
+19545,1961,Teaneck,New Jersey,United States
+19567,2000,Morristown,New Jersey,United States
+19574,1984,Albany,California,United States
+19631,1992,Pahrump,Nevada,United States
+19634,1967,Adrian,Michigan,United States
+19682,1976,Rio Linda,California,United States
+19684,1996,South San Jose Hills,California,United States
+19700,1997,Cumberland,Rhode Island,United States
+19744,1993,Saratoga,California,United States
+19762,2000,Riverbank,California,United States
+19770,1981,Watsonville,California,United States
+19804,2000,O'Fallon,Illinois,United States
+19860,1981,Norton,Massachusetts,United States
+19887,2000,Piscataway,New Jersey,United States
+19898,1978,Sparks,Nevada,United States
+19906,1995,Torrance,California,United States
+19913,1980,American Canyon,California,United States
+19914,1994,Hawthorne,New Jersey,United States
+19917,2000,Plainview,Texas,United States
+19991,1979,Woodland,California,United States
+18035,1961,Saint George,Utah,United States
+18074,1950,Del Rio,Texas,United States
+18184,1947,San Pablo,California,United States
+18208,1985,Liberal,Kansas,United States
+18284,1955,San Mateo,California,United States
+18394,1985,Rubidoux,California,United States
+18574,1935,South Whittier,California,United States
+18582,1984,Santa Rosa,California,United States
+18626,1951,Horizon City,Texas,United States
+18641,1963,Coos Bay,Oregon,United States
+18747,1939,Tonawanda,New York,United States
+18835,1997,Echo Park,California,United States
+18849,1959,Tukwila,Washington,United States
+18860,1985,Rancho San Diego,California,United States
+18975,1984,Rock Springs,Wyoming,United States
+18982,1973,Milton,Georgia,United States
+19123,1943,Socorro Mission Number 1 Colonia,Texas,United States
+19261,1935,West Lake Stevens,Washington,United States
+19464,1975,Pueblo West,Colorado,United States
+19577,1986,Wheat Ridge,Colorado,United States
+19821,1993,Eureka,California,United States
+19840,1956,La Crescenta-Montrose,California,United States
+20017,1937,Bend,Oregon,United States
+20019,1991,San Ramon,California,United States
+20090,1941,Lubbock,Texas,United States
+20175,1951,Riverside,California,United States
+20193,1942,Redondo Beach,California,United States
+20210,1952,Four Corners,Florida,United States
+20282,1999,Rio Rancho,New Mexico,United States
+20316,1980,Forest Grove,Oregon,United States
+20424,1961,Seaside,California,United States
+20446,1956,Security-Widefield,Colorado,United States
+20465,1989,Cutler Bay,Florida,United States
+20594,1956,Cedar City,Utah,United States
+20645,1931,Aurora,Colorado,United States
+20694,1988,East Hill-Meridian,Washington,United States
+20713,1977,Roswell,New Mexico,United States
+20764,1980,Sanger,California,United States
+20775,1950,Longmont,Colorado,United States
+20918,1939,Casa de Oro-Mount Helix,California,United States
+21018,1986,Central Point,Oregon,United States
+21045,1937,Seattle,Washington,United States
+21074,2000,Suisun,California,United States
+21186,1987,Yuba City,California,United States
+21300,1965,Dodge City,Kansas,United States
+21346,2000,Casper,Wyoming,United States
+21654,1976,San Gabriel,California,United States
+21662,1958,University,Florida,United States
+21762,1956,Santa Fe Springs,California,United States
+21800,1942,San Lorenzo,California,United States
+21812,1969,West Covina,California,United States
+21845,1979,Sheridan,Wyoming,United States
+21990,1958,Union Hill-Novelty Hill,Washington,United States
+22015,1940,Silver Lake,California,United States
+22027,1977,San Diego,California,United States
+22259,1931,Hilo,Hawaii,United States
+22341,1980,American Fork,Utah,United States
+22342,1983,Candler-McAfee,Georgia,United States
+22352,1959,Hobbs,New Mexico,United States
+22402,1998,Scottsbluff,Nebraska,United States
+22450,1948,Santa Ana,California,United States
+22518,1984,Bethany,Oregon,United States
+22528,1942,Butte-Silver Bow (Balance),Montana,United States
+22550,1997,Albany,Oregon,United States
+22627,1948,Bryn Mawr-Skyway,Washington,United States
+22694,1982,Turlock,California,United States
+22719,1998,La Crescenta-Montrose,California,United States
+23035,1986,Paradise,Nevada,United States
+23182,1989,Wallingford Center,Connecticut,United States
+23529,1960,Mandan,North Dakota,United States
+23601,1982,San Jose,California,United States
+23632,1934,Fairfield Heights,Indiana,United States
+23671,1939,West Bloomfield Township,Michigan,United States
+23723,1956,Santa Paula,California,United States
+23729,1932,Post Falls,Idaho,United States
+23851,1955,Vineyard,California,United States
+23860,1933,Westminster,Colorado,United States
+23886,1995,City of Milford (balance),Connecticut,United States
+23999,1972,Alafaya,Florida,United States
+24022,1947,Corvallis,Oregon,United States
+24039,1937,North Las Vegas,Nevada,United States
+24039,1986,Odessa,Texas,United States
+24053,1944,Riverbank,California,United States
+24085,1965,Amarillo,Texas,United States
+24142,1938,Laramie,Wyoming,United States
+24291,1977,Sherrelwood,Colorado,United States
+24344,1993,Moscow,Idaho,United States
+24459,1933,Susanville,California,United States
+24493,1939,Santa Fe,New Mexico,United States
+24510,1995,Boulder,Colorado,United States
+24540,1963,South El Monte,California,United States
+24597,1994,Pueblo,Colorado,United States
+24715,1960,Rexburg,Idaho,United States
+24772,1986,Big Spring,Texas,United States
+24783,1968,Lewiston,Idaho,United States
+24911,1967,Bel Air South,Maryland,United States
+24961,1991,West Whittier-Los Nietos,California,United States

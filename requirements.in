@@ -1,0 +1,8 @@
+feature_engine
+joblib
+notebook
+numpy
+pandas
+scikit-learn==1.5
+scipy
+seaborn

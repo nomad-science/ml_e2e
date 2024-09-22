@@ -1,0 +1,687 @@
+PatientID,glucose,blood_pressure,skin_thickness,insulin,bmi,diabetes_pedigree_function,outcome,birth_year,city,state,country,number_of_pregnancies,age,glucose_insulin_difference
+1017,101,58,17,265,24.2,0.614,0,1998,Winona,Minnesota,United States,2,26,164
+1031,108,70,0,0,30.5,0.955,1,1988,Springfield,Illinois,United States,8,36,108
+1033,148,60,27,318,30.9,0.15,1,1992,Socorro,Texas,United States,4,32,170
+1035,113,76,0,0,33.3,0.278,1,1998,Erie,Pennsylvania,United States,0,26,113
+1048,83,86,19,0,29.3,0.317,0,1987,Sioux Falls,South Dakota,United States,4,37,83
+1050,73,0,0,0,21.1,0.342,0,1996,Menasha,Wisconsin,United States,0,28,73
+1074,121,78,39,74,39.0,0.261,0,1993,Sidney,Ohio,United States,1,31,47
+1138,136,70,0,0,31.2,1.182,1,1999,Hays,Kansas,United States,4,25,136
+1161,99,72,17,0,25.6,0.294,0,1993,Upper Saint Clair,Pennsylvania,United States,4,31,99
+1260,68,62,13,15,20.1,0.257,0,1998,West Sacramento,California,United States,2,26,53
+1272,197,74,0,0,25.9,1.191,1,1982,Junction City,Kansas,United States,8,42,197
+1301,90,88,47,54,37.7,0.362,0,1992,Superior,Wisconsin,United States,4,32,36
+1311,77,82,41,42,35.8,0.156,0,1986,Avondale,Arizona,United States,5,38,35
+1330,115,98,0,0,52.9,0.209,1,1993,Salinas,California,United States,5,31,115
+1349,139,80,35,160,31.6,0.361,1,1996,Stevens Point,Wisconsin,United States,5,28,21
+1418,117,60,23,106,33.8,0.466,0,1994,Asbury Park,New Jersey,United States,1,30,11
+1436,97,70,40,0,38.1,0.218,0,1991,San Fernando,California,United States,1,33,97
+1439,88,74,40,54,35.3,0.378,0,1973,Branford,Connecticut,United States,12,51,34
+1442,141,58,34,128,25.4,0.699,0,1997,Biddeford,Maine,United States,2,27,13
+1478,118,64,23,89,0.0,1.731,0,2000,Fern Creek,Kentucky,United States,0,24,29
+1500,87,0,23,0,28.9,0.773,0,1996,West Memphis,Arkansas,United States,2,28,87
+1534,125,68,0,0,24.7,0.206,0,2000,Rosamond,California,United States,0,24,125
+1554,99,74,27,0,29.0,0.203,0,1989,Richmond,California,United States,5,35,99
+1558,186,90,35,225,34.5,0.423,1,1984,Tucson,Arizona,United States,8,40,39
+1561,130,64,0,0,23.1,0.314,0,1999,Woonsocket,Rhode Island,United States,3,25,130
+1677,105,68,22,0,20.0,0.236,0,1999,Santa Rosa,California,United States,0,25,105
+1685,87,58,16,52,32.7,0.166,0,1996,Boise,Idaho,United States,2,28,35
+1688,111,64,39,0,34.2,0.26,0,1997,Arvada,Colorado,United States,6,27,111
+1705,106,92,18,0,22.7,0.235,0,1973,Santa Maria,California,United States,7,51,106
+1741,111,90,12,78,28.4,0.495,0,1992,Edison,New Jersey,United States,3,32,33
+1792,115,72,0,0,28.9,0.376,1,1975,Bristol,Connecticut,United States,4,49,115
+1798,189,64,33,325,31.2,0.583,1,1992,Tinton Falls,New Jersey,United States,5,32,136
+1830,118,84,47,230,45.8,0.551,1,1990,Passaic,New Jersey,United States,0,34,112
+1873,130,70,0,0,34.2,0.652,1,1976,Rockland,Massachusetts,United States,9,48,130
+1882,146,82,0,0,40.5,1.781,0,1977,Florence,Kentucky,United States,0,47,146
+1887,124,70,33,402,35.4,0.282,0,1987,Lancaster,Pennsylvania,United States,9,37,278
+1911,180,90,26,90,36.5,0.314,1,1986,Aberdeen,South Dakota,United States,0,38,90
+1927,168,64,0,0,32.9,0.135,1,1980,Paradise,Nevada,United States,5,44,168
+1930,165,76,43,255,47.9,0.259,0,1995,Woodland Hills,California,United States,0,29,90
+1974,114,68,22,0,28.7,0.092,0,1996,Wheat Ridge,Colorado,United States,2,28,114
+1990,99,84,0,0,35.4,0.388,0,1971,Chandler,Arizona,United States,8,53,99
+2006,111,70,27,0,27.5,0.141,1,1981,Whitney,Nevada,United States,10,43,111
+2034,127,58,24,275,27.7,1.6,0,1996,Danville,Kentucky,United States,2,28,148
+2095,100,84,33,105,30.0,0.488,0,1975,Dumont,New Jersey,United States,12,49,5
+2099,134,70,23,130,35.4,0.542,1,1992,North Bergen,New Jersey,United States,6,32,4
+2103,158,70,0,0,29.8,0.207,0,1958,Rosemont,California,United States,5,66,158
+2190,113,80,16,0,31.0,0.874,0,2000,Warner Robins,Georgia,United States,0,24,113
+2212,118,72,19,0,23.1,1.476,0,1975,Covington,Kentucky,United States,8,49,118
+2213,140,94,0,0,32.7,0.734,1,1976,Daphne,Alabama,United States,9,48,140
+2216,126,60,0,0,30.1,0.349,1,1974,North La Crosse,Wisconsin,United States,1,50,126
+2260,125,60,20,140,33.8,0.088,0,1990,Southglenn,Colorado,United States,2,34,15
+2269,135,68,42,250,42.3,0.365,1,1997,Wausau,Wisconsin,United States,0,27,115
+2276,112,74,30,0,31.6,0.197,1,1996,Corvallis,Oregon,United States,3,28,112
+2278,115,66,39,140,38.1,0.15,0,1993,Socorro Mission Number 1 Colonia,Texas,United States,3,31,25
+2280,119,54,13,50,22.3,0.205,0,1997,Riverside,California,United States,1,27,69
+2353,182,74,0,0,30.5,0.345,1,1992,Muskego,Wisconsin,United States,3,32,182
+2421,130,96,0,0,22.6,0.268,0,2000,Westerville,Ohio,United States,2,24,130
+2423,94,70,27,115,43.5,0.347,0,2000,New Berlin,Wisconsin,United States,0,24,21
+2521,196,90,0,0,39.8,0.451,1,1980,Concord,New Hampshire,United States,7,44,196
+2558,154,78,30,100,30.9,0.164,0,1976,Fort Collins,Colorado,United States,9,48,54
+2570,148,66,25,0,32.5,0.256,0,1999,West Covina,California,United States,3,25,148
+2610,196,76,36,249,36.5,0.875,1,1992,Wilmington Island,Georgia,United States,1,32,53
+2644,83,65,28,66,36.8,0.629,0,1997,Newburyport,Massachusetts,United States,2,27,17
+2652,122,78,31,0,27.6,0.512,0,1976,Hopatcong Hills,New Jersey,United States,10,48,122
+2697,108,66,0,0,32.4,0.272,1,1979,Carlisle,Pennsylvania,United States,10,45,108
+2742,106,80,0,0,23.6,0.137,0,1977,Spanish Springs,Nevada,United States,12,47,106
+2751,87,78,27,32,34.6,0.101,0,1999,Liberal,Kansas,United States,1,25,55
+2758,112,72,30,176,34.4,0.528,0,1996,Mahwah,New Jersey,United States,1,28,64
+2774,150,66,42,342,34.7,0.718,0,1979,West Scarborough,Maine,United States,7,45,192
+2790,101,62,0,0,21.9,0.336,0,1996,Green Bay,Wisconsin,United States,0,28,101
+2799,136,74,50,204,37.4,0.399,0,1997,Goodyear,Arizona,United States,1,27,68
+2830,113,64,35,0,33.6,0.543,1,2000,Nutley,New Jersey,United States,1,24,113
+2865,114,0,0,0,0.0,0.189,0,1995,Scottsbluff,Nebraska,United States,6,29,114
+2899,135,0,0,0,52.3,0.578,1,1981,South Plainfield,New Jersey,United States,11,43,135
+2906,74,0,0,0,0.0,0.102,0,1999,Alamogordo,New Mexico,United States,2,25,74
+2926,144,82,40,0,41.3,0.607,0,1993,West Coon Rapids,Minnesota,United States,1,31,144
+2951,128,48,45,194,40.5,0.613,1,1997,Willmar,Minnesota,United States,1,27,66
+2984,123,88,37,0,35.2,0.197,0,1992,Eugene,Oregon,United States,0,32,123
+2985,97,66,15,140,23.2,0.487,0,1999,Dover,New Jersey,United States,1,25,43
+3053,152,88,44,0,50.0,0.337,1,1985,Howard,Wisconsin,United States,7,39,152
+3090,162,84,0,0,27.7,0.182,0,1967,Helena,Montana,United States,10,57,162
+3097,61,82,28,0,34.4,0.243,0,1975,South Whittier,California,United States,3,49,61
+3133,114,66,36,200,38.1,0.289,0,2000,Penn Hills,Pennsylvania,United States,1,24,86
+3148,95,74,21,73,25.9,0.673,0,1985,Stoughton,Massachusetts,United States,1,39,22
+3157,93,70,31,0,30.4,0.315,0,1998,Brookings,South Dakota,United States,1,26,93
+3181,173,74,0,0,36.8,0.088,1,1983,Thornton,Colorado,United States,1,41,173
+3248,193,50,16,375,25.9,0.655,0,1997,Somerset,Massachusetts,United States,1,27,182
+3365,156,86,28,155,34.3,1.189,1,1979,Hutchinson,Kansas,United States,9,45,1
+3398,95,72,33,0,37.7,0.37,0,1994,Weirton,West Virginia,United States,5,30,95
+3459,107,62,13,48,22.9,0.678,1,1998,Tewksbury,Massachusetts,United States,3,26,59
+3472,103,60,33,192,24.0,0.966,0,1988,Brownsburg,Indiana,United States,4,36,89
+3480,179,50,36,159,37.8,0.455,1,1999,Laconia,New Hampshire,United States,0,25,20
+3484,95,66,13,38,19.6,0.334,0,1996,Fond du Lac,Wisconsin,United States,1,28,57
+3487,93,100,39,72,43.4,1.021,0,1986,Greenfield,Indiana,United States,0,38,21
+3535,132,78,0,0,32.4,0.393,0,2000,Flowing Wells,Arizona,United States,0,24,132
+3569,179,70,0,0,35.1,0.2,0,1984,Redondo Beach,California,United States,10,40,179
+3582,83,58,31,18,34.3,0.336,0,1996,Greenfield,Wisconsin,United States,3,28,65
+3600,137,70,38,0,33.2,0.17,0,1999,Kuna,Idaho,United States,0,25,137
+3603,172,68,49,579,42.4,0.702,1,1993,Brunswick,Maine,United States,1,31,407
+3606,131,64,14,415,23.7,0.389,0,2000,Douglas,Arizona,United States,1,24,284
+3619,125,68,30,120,30.0,0.464,0,1989,Rochester,New Hampshire,United States,6,35,5
+3680,122,86,0,0,34.7,0.29,0,1988,Pittsburgh,Pennsylvania,United States,5,36,122
+3690,161,68,23,132,25.5,0.326,1,1974,Beaver Dam,Wisconsin,United States,10,50,29
+3701,93,56,11,0,22.5,0.417,0,1999,Sierra Vista,Arizona,United States,1,25,93
+3709,123,72,45,230,33.6,0.733,0,1987,Birmingham,Alabama,United States,6,37,107
+3711,161,50,0,0,21.9,0.254,0,1956,Ukiah,California,United States,0,68,161
+3712,99,0,0,0,25.0,0.253,0,1999,Twentynine Palms,California,United States,0,25,99
+3730,132,86,31,0,28.0,0.419,0,1958,Sun City,Arizona,United States,4,66,132
+3766,102,82,0,0,30.8,0.18,1,1985,Bozeman,Montana,United States,6,39,102
+3815,141,74,0,0,27.6,0.244,0,1981,South Yuba City,California,United States,4,43,141
+3850,65,72,23,0,32.0,0.6,0,1979,Savage,Minnesota,United States,8,45,65
+3853,109,88,30,0,32.5,0.855,1,1983,Brownsville,Florida,United States,0,41,109
+3860,108,64,0,0,30.8,0.158,0,2000,Arcata,California,United States,2,24,108
+3900,146,92,0,0,31.2,0.539,1,1960,North Arlington,New Jersey,United States,4,64,146
+3902,159,66,0,0,30.4,0.383,1,1985,Casas Adobes,Arizona,United States,7,39,159
+3905,108,62,10,278,25.3,0.881,0,1999,Cahokia,Illinois,United States,2,25,170
+3915,120,74,18,63,30.5,0.285,0,1995,Mount Lebanon,Pennsylvania,United States,0,29,57
+3993,102,78,40,90,34.5,0.238,0,1997,Sherman Oaks,California,United States,0,27,12
+4003,84,72,31,0,29.7,0.297,1,1975,Wilkinsburg,Pennsylvania,United States,12,49,84
+4011,110,68,0,0,26.0,0.292,0,1991,Pottstown,Pennsylvania,United States,5,33,110
+4056,76,62,0,0,34.0,0.391,0,1996,Eloy,Arizona,United States,4,28,76
+4083,103,108,37,0,39.2,0.305,0,1956,North Providence,Rhode Island,United States,5,68,103
+4088,87,60,18,0,21.8,0.444,0,2000,Norfolk,Nebraska,United States,3,24,87
+4117,170,64,37,225,34.5,0.356,1,1991,Racine,Wisconsin,United States,3,33,55
+4150,124,70,33,215,25.5,0.161,0,1984,Susanville,California,United States,7,40,91
+4174,112,72,0,0,23.6,0.84,0,1963,Bradenton,Florida,United States,8,61,112
+4175,122,76,27,200,35.9,0.483,0,1995,Clifton,New Jersey,United States,2,29,78
+4188,179,72,42,130,32.7,0.719,1,1985,Westbrook,Maine,United States,8,39,49
+4224,97,68,21,0,27.2,1.095,0,1999,New Albany,Indiana,United States,1,25,97
+4314,88,66,21,23,24.4,0.342,0,1991,Menomonee Falls,Wisconsin,United States,5,33,65
+4326,143,78,0,0,45.0,0.19,0,1974,Albany,Oregon,United States,5,50,143
+4335,112,86,42,160,38.4,0.246,0,1993,Sunnyvale,California,United States,2,31,48
+4354,96,0,0,0,23.7,0.19,0,1993,Aloha,Oregon,United States,6,31,96
+4365,56,56,28,45,24.2,0.332,0,1999,Fitchburg,Wisconsin,United States,2,25,11
+4429,150,78,29,126,35.2,0.692,1,1967,Winchester,Massachusetts,United States,7,57,24
+4444,147,78,0,0,33.7,0.218,0,1956,San Francisco,California,United States,5,68,147
+4454,122,60,18,106,29.8,0.717,0,1999,Waterville,Maine,United States,2,25,16
+4485,194,80,0,0,26.1,0.551,0,1954,Paterson,New Jersey,United States,8,70,194
+4488,93,60,0,0,35.3,0.263,0,1996,Sylvania,Ohio,United States,0,28,93
+4531,0,74,20,23,27.7,0.299,0,2000,Williamsport,Pennsylvania,United States,1,24,23
+4554,122,52,43,158,36.2,0.816,0,1993,Aventura,Florida,United States,2,31,36
+4561,79,75,30,0,32.0,0.396,0,1999,Gilbert,Arizona,United States,1,25,79
+4582,107,62,30,74,36.6,0.757,1,1996,Homewood,Alabama,United States,0,28,33
+4586,129,64,29,115,26.4,0.219,1,1993,San Gabriel,California,United States,3,31,14
+4622,97,76,27,0,35.6,0.378,1,1969,Cheshire,Connecticut,United States,5,55,97
+4660,125,96,0,0,0.0,0.232,1,1967,Santa Barbara,California,United States,8,57,125
+4674,90,80,14,55,24.4,0.249,0,1997,Tracy,California,United States,2,27,35
+4703,86,66,52,65,41.3,0.917,0,1992,Fairview Heights,Illinois,United States,1,32,21
+4758,119,80,35,0,29.0,0.263,1,1992,Tallmadge,Ohio,United States,9,32,119
+4768,96,64,27,87,33.2,0.289,0,2000,Phoenixville,Pennsylvania,United States,1,24,9
+4783,100,70,52,57,40.5,0.677,0,1996,Taunton,Massachusetts,United States,2,28,43
+4787,68,106,23,49,35.5,0.285,0,1974,Mountain Top,Pennsylvania,United States,10,50,19
+4792,180,0,0,0,43.3,0.282,1,1980,Lansdale,Pennsylvania,United States,1,44,180
+4843,196,76,29,280,37.5,0.605,1,1964,South Saint Paul,Minnesota,United States,8,60,84
+4849,120,70,30,135,42.9,0.452,0,1991,Derry,New Hampshire,United States,3,33,15
+4867,153,82,42,485,40.6,0.687,0,1998,Westfield,Massachusetts,United States,1,26,332
+4871,109,60,27,0,25.0,0.206,0,1994,Rosemead,California,United States,6,30,109
+4894,99,70,16,44,20.4,0.235,0,1994,Santa Monica,California,United States,2,30,55
+4897,181,78,42,293,40.0,1.258,1,1999,Manhattan,Kansas,United States,1,25,112
+4928,89,66,23,94,28.1,0.167,0,2000,Caldwell,Idaho,United States,1,24,5
+4953,118,58,36,94,33.3,0.261,0,1998,Solon,Ohio,United States,1,26,24
+4974,94,64,25,79,33.3,0.738,0,1980,Dothan,Alabama,United States,7,44,15
+4979,114,76,17,110,23.8,0.466,0,1990,Avenel,New Jersey,United States,7,34,4
+5003,146,76,35,194,38.2,0.329,0,1992,Cudahy,Wisconsin,United States,2,32,48
+5009,124,68,28,205,32.9,0.875,1,1991,Woodstock,Georgia,United States,2,33,81
+5077,187,70,22,200,36.4,0.408,1,1985,Phoenix,Arizona,United States,3,39,13
+5126,124,72,0,0,27.6,0.368,1,1992,West Bend,Wisconsin,United States,6,32,124
+5129,75,82,0,0,33.3,0.263,0,1983,Tiffin,Ohio,United States,10,41,75
+5162,105,100,36,0,43.3,0.239,1,1976,South Lake Tahoe,California,United States,8,48,105
+5163,163,72,41,114,40.9,0.817,1,1974,Bartow,Florida,United States,17,50,49
+5186,119,88,41,170,45.3,0.507,0,1995,Hillside,New Jersey,United States,1,29,51
+5189,187,68,39,304,37.7,0.254,1,1980,Union City,California,United States,7,44,117
+5192,96,56,34,115,24.7,0.944,0,1982,Mount Vernon,Illinois,United States,3,42,19
+5196,165,88,0,0,30.4,0.302,1,1972,Coventry,Rhode Island,United States,9,52,165
+5267,129,86,20,270,35.1,0.231,0,1998,Sanger,California,United States,4,26,141
+5314,115,76,0,0,31.2,0.343,1,1977,Menomonie,Wisconsin,United States,5,47,115
+5331,123,62,0,0,32.0,0.226,1,1986,San Mateo,California,United States,4,38,123
+5361,123,74,40,77,34.1,0.269,0,1993,Allentown,Pennsylvania,United States,5,31,46
+5381,123,80,15,176,32.0,0.443,0,1987,Apple Valley,California,United States,4,37,53
+5389,126,78,27,22,29.6,0.439,0,1981,Anaheim,California,United States,5,43,104
+5395,162,104,0,0,37.7,0.151,1,1969,West Odessa,Texas,United States,5,55,162
+5396,84,90,23,56,39.5,0.159,0,1996,Eureka,California,United States,4,28,28
+5533,81,72,18,40,26.6,0.283,0,1997,Lebanon,Pennsylvania,United States,1,27,41
+5544,109,62,41,129,35.8,0.514,1,1996,Irvington,New Jersey,United States,5,28,20
+5550,88,62,24,44,29.9,0.422,0,1998,Tanque Verde,Arizona,United States,1,26,44
+5604,101,64,17,0,21.0,0.252,0,2000,Tustin,California,United States,0,24,101
+5616,101,76,0,0,35.7,0.198,0,1995,Rancho San Diego,California,United States,0,29,101
+5645,89,74,16,85,30.4,0.551,0,1983,Perth Amboy,New Jersey,United States,3,41,4
+5665,106,52,0,0,31.2,0.38,0,1979,Fillmore,California,United States,9,45,106
+5731,123,72,0,0,36.3,0.258,1,1969,Whittier,California,United States,0,55,123
+5748,84,68,30,106,31.9,0.591,0,1996,Roseville,Minnesota,United States,3,28,22
+5810,100,72,12,70,25.3,0.658,0,1993,Somerville,Massachusetts,United States,1,31,30
+5883,95,64,39,105,44.6,0.366,0,1999,West Allis,Wisconsin,United States,0,25,10
+5892,85,74,22,0,29.0,1.224,1,1989,Leavenworth,Kansas,United States,5,35,85
+5901,102,52,0,0,25.1,0.078,0,2000,Parker,Colorado,United States,0,24,102
+5948,112,75,32,0,35.7,0.148,0,2000,Odessa,Texas,United States,2,24,112
+5962,95,60,18,58,23.9,0.26,0,1999,Aurora,Colorado,United States,1,25,37
+5967,85,78,0,0,31.2,0.382,0,1979,Casa Grande,Arizona,United States,6,45,85
+5974,136,90,0,0,29.9,0.21,0,1971,San Bruno,California,United States,7,53,136
+5982,92,76,20,0,24.2,1.698,0,1993,Elizabethtown,Kentucky,United States,2,31,92
+6010,154,62,31,284,32.8,0.237,0,1998,Seal Beach,California,United States,4,26,130
+6032,155,76,28,150,33.3,1.353,1,1970,Salina,Kansas,United States,11,54,5
+6047,168,88,42,321,38.2,0.787,1,1981,Bear,Delaware,United States,7,43,153
+6071,126,84,29,215,30.7,0.52,0,1997,Lakewood,New Jersey,United States,0,27,89
+6110,131,88,0,0,31.6,0.743,1,1989,Fairhope,Alabama,United States,0,35,131
+6116,183,64,0,0,23.3,0.672,1,1989,Stoneham,Massachusetts,United States,8,35,183
+6131,174,58,22,194,32.9,0.593,1,1985,Saint Louis Park,Minnesota,United States,3,39,20
+6161,92,62,28,0,31.6,0.13,0,1997,Las Vegas,Nevada,United States,2,27,92
+6272,0,80,32,0,41.0,0.346,1,1984,Neenah,Wisconsin,United States,5,40,0
+6310,162,76,36,0,49.6,0.364,1,1995,Watertown,Wisconsin,United States,0,29,162
+6342,112,82,24,0,28.2,1.282,1,1971,Olathe,Kansas,United States,9,53,112
+6345,80,80,36,0,39.8,0.177,0,1993,Pocatello,Idaho,United States,6,31,80
+6348,84,74,31,0,38.3,0.457,0,1982,Merrimack,New Hampshire,United States,8,42,84
+6362,157,74,35,440,39.4,0.134,0,1991,North Las Vegas,Nevada,United States,2,33,283
+6395,109,64,44,99,34.8,0.905,1,1995,East Saint Louis,Illinois,United States,4,29,10
+6448,82,70,0,0,21.1,0.389,0,1996,Drexel Heights,Arizona,United States,3,28,82
+6499,142,90,24,480,30.4,0.128,1,1978,Carson City,Nevada,United States,7,46,338
+6507,81,78,40,48,46.7,0.261,0,1979,South Euclid,Ohio,United States,7,45,33
+6531,194,78,0,0,23.5,0.129,1,1962,Fernley,Nevada,United States,6,62,194
+6533,106,60,24,0,26.5,0.296,1,1992,Wilkes-Barre,Pennsylvania,United States,7,32,106
+6552,134,72,0,0,23.8,0.277,1,1961,Easton,Pennsylvania,United States,4,63,134
+6583,80,66,30,0,26.2,0.313,0,1980,West Warwick,Rhode Island,United States,6,44,80
+6599,171,72,0,0,43.6,0.479,1,1995,Carteret,New Jersey,United States,4,29,171
+6602,84,72,32,0,37.2,0.267,0,1993,Wadsworth,Ohio,United States,3,31,84
+6616,87,80,0,0,23.2,0.084,0,1989,Pueblo,Colorado,United States,6,35,87
+6639,98,58,33,190,34.0,0.43,0,1978,Agoura,California,United States,6,46,92
+6640,101,58,35,90,21.8,0.155,0,1999,Apache Junction,Arizona,United States,2,25,11
+6654,99,54,19,86,25.6,0.154,0,1997,Anthem,Arizona,United States,3,27,13
+6737,128,88,39,110,36.5,1.057,1,1984,Jasper,Indiana,United States,1,40,18
+6743,134,80,37,370,46.2,0.238,1,1975,Simi Valley,California,United States,6,49,236
+6784,71,78,50,45,33.2,0.422,0,2000,Tempe,Arizona,United States,1,24,26
+6801,189,60,23,846,30.1,0.398,1,1962,Glendale,Arizona,United States,1,62,657
+6824,158,64,13,387,31.2,0.295,0,1997,Whitehall Township,Pennsylvania,United States,3,27,229
+6856,104,76,0,0,18.4,0.582,0,1994,Summit,New Jersey,United States,0,30,104
+6868,151,90,46,0,42.1,0.371,1,2000,Wheeling,West Virginia,United States,0,24,151
+6870,195,70,0,0,30.9,0.328,1,1990,Brookfield,Wisconsin,United States,6,34,195
+6897,119,66,27,0,38.8,0.259,0,1999,Yorba Linda,California,United States,0,25,119
+6907,112,68,22,94,34.1,0.315,0,1995,Mitchell,South Dakota,United States,2,29,18
+6921,102,86,36,120,45.5,0.127,1,1998,South Valley,New Mexico,United States,2,26,18
+6951,100,64,23,0,29.7,0.368,0,2000,Wisconsin Rapids,Wisconsin,United States,2,24,100
+6987,139,54,0,0,25.6,0.402,1,1999,Marana,Arizona,United States,3,25,139
+7000,107,80,0,0,24.6,0.856,0,1987,Tucker,Georgia,United States,8,37,107
+7017,106,70,28,135,34.2,0.142,0,1999,Big Spring,Texas,United States,1,25,29
+7042,98,60,17,120,34.7,0.198,0,1999,Rancho Santa Margarita,California,United States,2,25,22
+7074,163,70,18,105,31.6,0.268,1,1993,Westlake,Ohio,United States,3,31,58
+7103,134,58,20,291,26.4,0.352,0,2000,Oshkosh,Wisconsin,United States,0,24,157
+7105,90,62,18,59,25.1,1.268,0,1996,Newton,Kansas,United States,1,28,31
+7118,129,110,46,130,67.1,0.319,1,1995,Burlington,Vermont,United States,0,29,1
+7139,180,78,63,14,59.4,2.42,1,1996,Highview,Kentucky,United States,0,28,166
+7160,167,0,0,0,32.3,0.839,1,1991,Bonita Springs,Florida,United States,0,33,167
+7172,123,100,35,240,57.3,0.88,0,1999,Belleville,Illinois,United States,3,25,117
+7213,119,64,18,92,34.9,0.725,0,1998,Allendale,Michigan,United States,0,26,27
+7253,150,76,0,0,21.0,0.207,0,1984,Roseville,California,United States,3,40,150
+7292,99,60,17,160,36.6,0.453,0,2000,East Concord,New Hampshire,United States,2,24,61
+7315,78,88,29,40,36.9,0.434,0,2000,Altadena,California,United States,0,24,38
+7340,91,0,0,0,29.8,0.501,0,1990,Garfield,New Jersey,United States,6,34,91
+7431,106,76,0,0,37.5,0.197,0,1995,Forest Grove,Oregon,United States,1,29,106
+7451,81,60,22,0,27.7,0.29,0,1996,Plum,Pennsylvania,United States,2,28,81
+7462,99,62,19,74,21.8,0.279,0,1995,Hazleton,Pennsylvania,United States,3,29,25
+7502,120,78,0,0,25.0,0.409,0,1957,Prescott,Arizona,United States,8,67,120
+7507,114,64,0,0,28.9,0.126,0,1997,Roswell,New Mexico,United States,4,27,114
+7508,195,70,33,145,25.1,0.163,1,1966,Evans,Colorado,United States,7,58,50
+7544,120,54,0,0,26.8,0.455,0,1994,Manchester,New Hampshire,United States,2,30,120
+7557,111,56,39,0,30.1,0.557,0,1991,Point Pleasant,New Jersey,United States,3,33,111
+7658,100,76,0,0,38.7,0.19,0,1979,Altamont,Oregon,United States,8,45,100
+7711,93,64,32,160,38.0,0.674,1,1998,Sudbury,Massachusetts,United States,2,26,67
+7736,92,52,0,0,30.1,0.141,0,1999,Winchester,Nevada,United States,2,25,92
+7751,78,70,0,0,32.5,0.27,0,1982,Altoona,Pennsylvania,United States,3,42,78
+7755,119,86,39,220,45.6,0.808,1,1992,Altamonte Springs,Florida,United States,1,32,101
+7758,99,60,19,54,26.9,0.497,0,1989,Ewing,New Jersey,United States,6,35,45
+7768,169,74,19,125,29.9,0.268,1,1990,Willoughby,Ohio,United States,3,34,44
+7770,139,62,41,480,40.7,0.536,0,2000,New Brunswick,New Jersey,United States,1,24,341
+7795,122,68,0,0,31.2,0.258,0,1980,Wildomar,California,United States,10,44,122
+7796,116,74,15,105,26.3,0.107,0,1997,Albuquerque,New Mexico,United States,3,27,11
+7853,80,55,0,0,19.1,0.258,0,2000,Willowbrook,California,United States,1,24,80
+7912,188,82,14,185,32.0,0.682,1,1999,Watertown,Massachusetts,United States,0,25,3
+7956,129,68,49,125,38.5,0.439,1,1978,Antelope,California,United States,7,46,4
+7979,174,88,37,120,44.5,0.646,1,1997,Pittsfield,Massachusetts,United States,2,27,54
+8016,89,90,30,0,33.5,0.292,0,1979,Radnor,Pennsylvania,United States,2,45,89
+8020,121,78,17,0,26.5,0.259,0,1959,Yuba City,California,United States,12,65,121
+8072,119,0,0,0,19.6,0.832,0,1949,Boca Del Mar,Florida,United States,2,75,119
+8109,176,90,34,300,33.7,0.467,1,1963,Bayonne,New Jersey,United States,8,61,124
+8136,197,70,45,543,30.5,0.158,1,1968,Bayside,California,United States,2,56,346
+8180,117,62,12,0,29.7,0.38,1,1991,Buckeye,Arizona,United States,4,33,117
+8291,146,70,0,0,37.9,0.334,1,1993,Franklin,Wisconsin,United States,0,31,146
+8318,92,62,32,126,32.0,0.085,0,1975,Pueblo West,Colorado,United States,6,49,34
+8324,155,52,27,540,38.7,0.24,1,1996,South Pasadena,California,United States,2,28,385
+8345,91,54,25,100,25.2,0.234,0,1998,Santa Cruz,California,United States,1,26,9
+8366,86,68,28,71,30.2,0.364,0,1997,Waukesha,Wisconsin,United States,5,27,15
+8369,146,0,0,0,27.5,0.24,1,1993,South San Francisco,California,United States,2,31,146
+8430,114,74,0,0,24.9,0.744,0,1964,Florence,Alabama,United States,5,60,114
+8481,155,84,44,545,38.7,0.619,0,1987,Kirksville,Missouri,United States,5,37,390
+8514,83,66,23,50,32.2,0.497,0,1999,Fair Lawn,New Jersey,United States,2,25,33
+8529,154,78,32,0,32.4,0.443,1,1976,Arcadia,California,United States,8,48,154
+8591,121,52,0,0,36.0,0.127,1,1996,Boulder City,Nevada,United States,3,28,121
+8595,111,62,13,182,24.0,0.138,0,1998,Spring Valley,Nevada,United States,1,26,71
+8605,144,82,32,0,38.5,0.554,1,1984,Plainfield,New Jersey,United States,4,40,144
+8648,197,70,99,0,34.7,0.575,1,1959,South Orange,New Jersey,United States,2,65,197
+8649,184,85,15,0,30.0,1.213,1,1972,Kansas City,Kansas,United States,9,52,184
+8677,158,114,0,0,42.3,0.257,1,1977,Westminster,California,United States,13,47,158
+8683,100,68,25,71,38.5,0.324,0,1995,South Burlington,Vermont,United States,2,29,29
+8704,184,78,39,277,37.0,0.264,1,1990,Troy,Ohio,United States,4,34,93
+8723,95,85,25,36,37.4,0.247,1,1997,Temecula,California,United States,0,27,59
+8730,106,64,35,119,30.5,1.4,0,1987,Ashland,Kentucky,United States,2,37,13
+8750,142,60,33,190,28.8,0.687,0,1960,Westford,Massachusetts,United States,7,64,48
+8778,114,80,34,285,44.2,0.167,0,1994,Coeur d'Alene,Idaho,United States,0,30,171
+8788,135,94,46,145,40.6,0.284,0,1995,Levittown,Pennsylvania,United States,0,29,10
+8798,111,60,0,0,26.2,0.343,0,1998,Mequon,Wisconsin,United States,2,26,111
+8814,96,122,0,0,22.4,0.207,0,1994,Rowland Heights,California,United States,1,30,96
+8893,92,80,0,0,42.2,0.237,0,1992,Seaside,California,United States,4,32,92
+8898,180,66,39,0,42.0,1.893,1,1996,Fort Thomas,Kentucky,United States,0,28,180
+8906,125,80,0,0,32.3,0.536,1,1994,New Milford,New Jersey,United States,4,30,125
+8909,85,58,22,49,27.8,0.306,0,1993,Providence,Rhode Island,United States,4,31,36
+8910,108,52,26,63,32.5,0.318,0,1999,Watertown,South Dakota,United States,2,25,45
+8926,90,62,12,43,27.2,0.58,0,1997,South River,New Jersey,United States,1,27,47
+8949,148,84,48,237,37.6,1.001,1,1970,Fishers,Indiana,United States,10,54,89
+9001,128,82,17,183,27.5,0.115,0,1999,Clovis,New Mexico,United States,1,25,55
+9006,142,80,15,0,32.4,0.2,0,1958,Redwood City,California,United States,3,66,142
+9025,102,74,0,0,39.5,0.293,1,1979,Scranton,Pennsylvania,United States,1,45,102
+9038,176,86,27,156,33.3,1.154,1,1969,Derby,Kansas,United States,3,55,20
+9086,120,76,37,105,39.7,0.215,0,1992,San Diego,California,United States,2,32,15
+9090,85,65,0,0,39.6,0.93,0,1994,Jacksonville,Illinois,United States,2,30,85
+9099,140,82,43,325,39.2,0.528,1,1963,Maplewood,New Jersey,United States,12,61,185
+9103,99,72,30,18,38.6,0.412,0,2000,Queen Creek,Arizona,United States,1,24,81
+9131,105,72,29,325,36.9,0.159,0,1993,McKinleyville,California,United States,5,31,220
+9189,99,80,11,64,19.3,0.284,0,1991,Limerick,Pennsylvania,United States,3,33,35
+9197,91,82,0,0,35.6,0.587,0,1953,Red Wing,Minnesota,United States,8,71,91
+9214,106,70,37,148,39.4,0.605,0,1999,Stillwater,Minnesota,United States,0,25,42
+9221,127,106,0,0,39.0,0.19,0,1970,Ashland,Oregon,United States,11,54,127
+9222,140,74,26,180,24.1,0.828,0,1998,Bellview,Florida,United States,1,26,40
+9240,127,88,11,155,34.5,0.598,0,1993,Sartell,Minnesota,United States,4,31,28
+9257,124,74,0,0,34.0,0.22,1,1983,San Jose,California,United States,5,41,124
+9290,184,84,33,0,35.5,0.355,1,1980,Pleasant Prairie,Wisconsin,United States,7,44,184
+9293,99,76,15,51,23.2,0.223,0,2000,San Lorenzo,California,United States,4,24,48
+9307,112,66,0,0,37.8,0.261,1,1980,Steubenville,Ohio,United States,5,44,112
+9313,115,60,39,0,33.7,0.245,1,1981,Stanton,California,United States,6,43,115
+9333,133,68,0,0,27.0,0.245,0,1985,Stockton,California,United States,10,39,133
+9336,139,80,0,0,27.1,1.441,0,1964,Bowling Green,Kentucky,United States,10,60,139
+9360,109,38,18,120,23.1,0.407,0,1995,Payson,Arizona,United States,1,29,11
+9387,125,70,18,122,28.9,1.144,1,1976,Vincennes,Indiana,United States,4,48,3
+9390,109,56,21,135,25.2,0.833,0,1998,Boca Raton,Florida,United States,1,26,26
+9403,120,68,0,0,29.6,0.709,0,1987,South Portland,Maine,United States,4,37,120
+9444,198,66,32,274,41.3,0.502,1,1993,Hackensack,New Jersey,United States,0,31,76
+9448,161,86,0,0,30.4,0.165,1,1974,Longmont,Colorado,United States,7,50,161
+9462,136,82,0,0,0.0,0.64,0,1952,Norwood,Massachusetts,United States,5,72,136
+9486,103,66,32,0,39.1,0.344,1,1990,Middleton,Wisconsin,United States,7,34,103
+9508,168,88,29,0,35.0,0.905,1,1969,Edwardsville,Illinois,United States,1,55,168
+9555,71,70,27,0,28.0,0.586,0,1999,Prior Lake,Minnesota,United States,2,25,71
+9595,122,70,27,0,36.8,0.34,0,1994,La Crosse,Wisconsin,United States,2,30,122
+9596,120,80,37,150,42.3,0.785,1,1973,"Washington, D.C.","Washington, D.C.",United States,11,51,30
+9609,99,0,0,0,22.2,0.108,0,1998,Carlsbad,New Mexico,United States,2,26,99
+9626,114,88,0,0,27.8,0.247,0,1955,Temple City,California,United States,6,69,114
+9653,97,76,32,91,40.9,0.871,1,1989,Valdosta,Georgia,United States,7,35,6
+9746,83,78,26,71,29.3,0.767,0,1985,Mobile,Alabama,United States,7,39,12
+9822,181,88,44,510,43.3,0.222,1,1995,San Leandro,California,United States,0,29,329
+9860,109,92,0,0,42.7,0.845,0,1967,Brandon,Florida,United States,2,57,109
+9877,110,76,20,100,28.4,0.118,0,1994,Farmington,New Mexico,United States,4,30,10
+9902,197,70,39,744,36.7,2.329,0,1990,Henderson,Kentucky,United States,4,34,547
+9908,129,92,49,155,36.4,0.968,1,1989,Carmel,Indiana,United States,3,35,26
+9921,108,80,0,0,27.0,0.259,1,1969,Yucaipa,California,United States,2,55,108
+9927,137,84,27,0,27.3,0.231,0,1962,Santa Ana,California,United States,0,62,137
+9935,104,64,37,64,33.6,0.51,1,1999,Hopatcong,New Jersey,United States,0,25,40
+9960,128,98,41,58,32.0,1.321,1,1988,Prairie Village,Kansas,United States,1,36,70
+9970,110,66,0,0,31.9,0.471,0,1992,Belleville,New Jersey,United States,4,32,110
+9992,91,62,0,0,27.3,0.525,0,1999,Lodi,New Jersey,United States,2,25,91
+9999,129,74,26,205,33.2,0.591,0,1996,Saint Cloud,Minnesota,United States,2,28,76
+10038,104,74,18,156,29.9,0.722,1,1980,Allen Park,Michigan,United States,6,44,52
+10050,126,56,29,152,28.7,0.801,0,2000,Middletown,Delaware,United States,1,24,26
+10093,115,98,0,0,24.0,1.022,0,1987,Greenwood,Indiana,United States,10,37,115
+10115,112,66,22,0,25.0,0.307,0,1997,Warwick,Rhode Island,United States,2,27,112
+10135,86,68,32,0,35.8,0.238,0,1996,Soledad,California,United States,0,28,86
+10151,97,64,36,100,36.8,0.6,0,1996,Shakopee,Minnesota,United States,0,28,3
+10152,166,76,0,0,45.7,0.34,1,1994,Madison,Wisconsin,United States,5,30,166
+10178,73,50,10,0,23.0,0.248,0,2000,Thousand Oaks,California,United States,1,24,73
+10207,105,75,0,0,23.3,0.56,0,1968,Rutherford,New Jersey,United States,2,56,105
+10296,128,78,37,182,43.3,1.224,1,1990,Leawood,Kansas,United States,2,34,54
+10410,154,72,29,126,31.3,0.338,0,1984,Kenosha,Wisconsin,United States,4,40,28
+10445,93,50,30,64,28.7,0.356,0,1998,Sheboygan,Wisconsin,United States,6,26,29
+10460,143,66,0,0,34.9,0.129,1,1980,Henderson,Nevada,United States,8,44,143
+10484,158,90,0,0,31.6,0.805,1,1955,Allapattah,Florida,United States,2,69,158
+10502,98,82,15,84,25.2,0.299,0,1999,Willow Grove,Pennsylvania,United States,0,25,14
+10523,102,86,17,105,29.3,0.695,0,1994,Auburn,Maine,United States,0,30,3
+10532,131,0,0,0,43.2,0.27,1,1995,Back Mountain,Pennsylvania,United States,0,29,131
+10581,128,68,19,180,30.5,1.391,1,1996,Topeka,Kansas,United States,0,28,52
+10586,85,66,29,0,26.6,0.351,0,1990,Onalaska,Wisconsin,United States,1,34,85
+10590,168,74,0,0,38.0,0.537,1,1987,Newark,New Jersey,United States,10,37,168
+10645,130,78,23,79,28.4,0.323,1,1987,Colchester,Vermont,United States,3,37,51
+10652,105,58,0,0,24.3,0.187,0,2000,Dickinson,North Dakota,United States,1,24,105
+10675,106,70,0,0,34.2,0.251,0,1969,Tulare,California,United States,13,55,106
+10685,125,78,31,0,27.6,0.565,1,1972,Scotch Plains,New Jersey,United States,6,52,125
+10706,132,80,0,0,26.8,0.186,0,1952,Bismarck,North Dakota,United States,5,72,132
+10730,90,85,32,0,34.9,0.825,1,1965,Bayshore Gardens,Florida,United States,10,59,90
+10745,117,80,31,53,45.2,0.089,0,1997,Westminster,Colorado,United States,0,27,64
+10830,173,78,32,265,46.5,1.159,0,1963,Emporia,Kansas,United States,0,61,92
+10835,117,90,19,71,25.2,0.313,0,2000,Westerly,Rhode Island,United States,2,24,46
+10846,90,68,8,0,24.5,1.138,0,1985,Terre Haute,Indiana,United States,1,39,90
+10864,137,40,35,168,43.1,2.288,1,1988,Georgetown,Kentucky,United States,0,36,31
+10888,100,74,40,215,39.4,0.661,1,1978,South Peabody,Massachusetts,United States,8,46,115
+10919,181,68,36,495,30.1,0.615,1,1961,Woodbury,Minnesota,United States,8,63,314
+10932,90,78,0,0,42.7,0.559,0,2000,Ridgewood,New Jersey,United States,3,24,90
+10936,173,70,14,168,29.7,0.361,1,1988,Sun Prairie,Wisconsin,United States,4,36,5
+10947,144,58,28,140,29.5,0.287,0,1984,Norristown,Pennsylvania,United States,4,40,4
+10952,144,72,27,228,33.9,0.255,0,1981,West Carson,California,United States,6,43,84
+10975,88,74,19,53,29.0,0.229,0,1999,San Pedro,California,United States,2,25,35
+10986,129,62,36,0,41.2,0.441,1,1983,Antioch,California,United States,10,41,129
+11048,101,50,15,36,24.2,0.526,0,1995,Long Branch,New Jersey,United States,1,29,65
+11065,95,82,25,180,35.0,0.233,1,1978,Santa Clara,California,United States,1,46,85
+11073,126,90,0,0,43.4,0.583,1,1979,Trenton,New Jersey,United States,13,45,126
+11107,120,86,0,0,28.4,0.259,1,1999,Yucca Valley,California,United States,8,25,120
+11125,111,58,31,44,29.5,0.43,0,1999,Agoura Hills,California,United States,3,25,67
+11192,145,0,0,0,44.2,0.63,1,1990,Newton,Massachusetts,United States,0,34,145
+11197,82,64,13,95,21.2,0.415,0,1998,Sahuarita,Arizona,United States,1,26,13
+11199,154,74,32,193,29.3,0.839,0,1982,Boynton Beach,Florida,United States,6,42,39
+11201,102,90,39,0,35.7,0.674,0,1993,Swansea,Massachusetts,United States,6,31,102
+11234,95,54,14,88,26.1,0.748,0,1999,Helena,Alabama,United States,2,25,7
+11244,152,78,34,171,34.2,0.893,1,1988,Collinsville,Illinois,United States,9,36,19
+11310,131,68,21,166,33.1,0.16,0,1993,Redding,California,United States,4,31,35
+11318,126,86,27,120,27.4,0.515,0,2000,Jersey City,New Jersey,United States,0,24,6
+11355,117,92,0,0,34.1,0.337,0,1983,Janesville,Wisconsin,United States,5,41,117
+11368,106,54,21,158,30.9,0.292,0,1997,Reading,Pennsylvania,United States,3,27,52
+11398,111,65,0,0,24.6,0.66,0,1990,South Boston,Massachusetts,United States,0,34,111
+11428,190,92,0,0,35.5,0.278,1,1955,Harrisburg,Pennsylvania,United States,6,69,190
+11438,123,70,44,94,33.1,0.374,0,1981,Ansonia,Connecticut,United States,9,43,29
+11456,146,70,38,360,28.0,0.337,1,1992,Kaukauna,Wisconsin,United States,2,32,214
+11465,111,94,0,0,32.8,0.265,0,1976,Twinsburg,Ohio,United States,1,48,111
+11476,108,60,46,178,35.5,0.415,0,1997,San Luis,Arizona,United States,1,27,70
+11498,112,80,45,132,34.8,0.217,0,1997,San Dimas,California,United States,1,27,20
+11524,165,68,26,168,33.6,0.631,0,1972,North Chicopee,Massachusetts,United States,6,52,3
+11530,129,60,12,231,27.5,0.527,0,1990,Lyndhurst,New Jersey,United States,4,34,102
+11547,88,58,26,16,28.4,0.766,0,1999,Madison,Alabama,United States,2,25,72
+11551,80,82,31,70,34.2,1.292,1,1994,Overland Park,Kansas,United States,3,30,10
+11578,96,68,13,49,21.1,0.647,0,1995,Quincy,Massachusetts,United States,2,29,47
+11632,144,82,46,180,46.1,0.335,1,1975,Germantown,Wisconsin,United States,1,49,36
+11670,108,44,20,130,24.0,0.813,0,1986,Apopka,Florida,United States,6,38,22
+11703,103,72,30,152,27.6,0.73,0,1994,Fort Hunt,Virginia,United States,3,30,49
+11727,103,30,38,83,43.3,0.183,0,1988,Kalispell,Montana,United States,1,36,20
+11817,0,68,35,0,32.0,0.389,0,1999,El Mirage,Arizona,United States,1,25,0
+11872,141,84,26,0,32.4,0.433,0,1999,Alhambra,California,United States,0,25,141
+11888,116,78,29,180,36.1,0.496,0,1996,Elizabeth,New Jersey,United States,1,28,64
+11923,125,76,0,0,33.8,0.121,1,1967,Gallup,New Mexico,United States,6,57,125
+11947,124,76,24,600,28.7,0.687,1,1969,Weymouth,Massachusetts,United States,8,55,476
+11959,126,74,38,75,25.9,0.162,0,1982,Erie,Colorado,United States,8,42,51
+12002,133,72,0,0,32.9,0.27,1,1982,Baldwin,Pennsylvania,United States,8,42,133
+12104,179,95,31,0,34.2,0.164,0,1961,Greeley,Colorado,United States,7,63,179
+12105,124,74,36,0,27.8,0.1,0,1991,Garden City,Kansas,United States,1,33,124
+12131,124,60,32,0,35.8,0.514,0,2000,Iselin,New Jersey,United States,1,24,124
+12134,125,86,0,0,37.6,0.304,0,1970,East Providence,Rhode Island,United States,7,54,125
+12139,0,68,41,0,39.0,0.727,1,1980,Ann Arbor,Michigan,United States,6,44,0
+12163,137,84,0,0,31.2,0.252,0,1991,North Tustin,California,United States,4,33,137
+12172,107,68,19,0,26.5,0.165,0,1997,Loveland,Colorado,United States,1,27,107
+12174,57,80,37,0,32.8,0.096,0,1980,Dodge City,Kansas,United States,9,44,57
+12202,116,74,0,0,25.6,0.201,0,1991,Rialto,California,United States,5,33,116
+12217,100,66,15,56,23.6,0.666,0,1995,Springfield,Massachusetts,United States,1,29,44
+12228,62,78,0,0,32.6,0.391,0,1980,Flagstaff,Arizona,United States,7,44,62
+12248,110,74,29,125,32.4,0.698,0,1994,Bangor,Maine,United States,2,30,15
+12284,107,60,25,0,26.4,0.133,0,1998,Mesquite,Nevada,United States,0,26,107
+12305,104,64,23,116,27.8,0.454,0,1998,Keene,New Hampshire,United States,0,26,12
+12321,106,82,30,0,39.5,0.286,0,1983,Murrysville,Pennsylvania,United States,5,41,106
+12325,135,54,0,0,26.7,0.687,0,1959,Wilmington,Massachusetts,United States,1,65,135
+12350,67,76,0,0,45.3,0.194,0,1975,Central Point,Oregon,United States,0,49,67
+12361,128,64,42,0,40.0,1.101,0,1997,Plainfield,Indiana,United States,2,27,128
+12367,149,68,29,127,29.3,0.349,1,1979,Oak Creek,Wisconsin,United States,1,45,22
+12392,136,74,26,135,26.0,0.647,0,1970,Randolph,Massachusetts,United States,7,54,1
+12395,140,65,26,130,42.6,0.431,1,1997,Alameda,California,United States,0,27,10
+12404,166,74,0,0,26.6,0.304,0,1955,Middletown,Rhode Island,United States,6,69,166
+12433,181,84,21,192,35.9,0.586,1,1970,Ramsey,Minnesota,United States,7,54,11
+12468,109,76,39,114,27.9,0.64,1,1990,Palmer,Massachusetts,United States,8,34,5
+12478,175,88,0,0,22.9,0.326,0,1999,Beloit,Wisconsin,United States,2,25,175
+12501,102,74,0,0,29.5,0.121,0,1989,Hobbs,New Mexico,United States,3,35,102
+12502,106,72,54,0,36.6,0.178,0,1976,Post Falls,Idaho,United States,13,48,106
+12536,124,80,33,130,33.2,0.305,0,1995,Pawtucket,Rhode Island,United States,3,29,6
+12568,167,74,17,144,23.4,0.447,1,1988,Bedford,New Hampshire,United States,1,36,23
+12572,96,56,17,49,20.8,0.34,0,1995,Manitowoc,Wisconsin,United States,4,29,47
+12612,173,84,33,474,35.7,0.258,1,1999,Windsor,California,United States,3,25,301
+12632,100,78,25,184,36.6,0.412,1,1975,Rio Rico,Arizona,United States,14,49,84
+12638,101,76,48,180,32.9,0.171,0,1958,Lewiston,Idaho,United States,10,66,79
+12679,145,82,19,110,22.2,0.245,0,1964,Suisun,California,United States,13,60,35
+12726,147,80,0,0,29.5,0.178,1,1971,Rexburg,Idaho,United States,6,53,147
+12756,187,50,33,392,33.9,0.826,1,1987,Belle Glade,Florida,United States,7,37,205
+12798,106,56,27,165,29.0,0.426,0,1999,Yuma,Arizona,United States,2,25,59
+12844,139,62,17,210,22.1,0.207,0,2000,Rubidoux,California,United States,0,24,71
+12866,158,70,30,328,35.5,0.344,1,1986,Milwaukee,Wisconsin,United States,3,38,170
+12873,99,52,15,94,24.6,0.637,0,2000,Northampton,Massachusetts,United States,2,24,5
+12909,106,72,0,0,25.8,0.207,0,1994,Sacramento,California,United States,3,30,106
+12923,156,75,0,0,48.3,0.238,1,1989,South El Monte,California,United States,4,35,156
+12947,97,70,15,0,18.2,0.147,0,2000,Midland,Texas,United States,1,24,97
+12961,84,64,22,66,35.8,0.545,0,2000,Orange,New Jersey,United States,0,24,18
+12969,131,66,40,0,34.3,0.196,1,1999,Coos Bay,Oregon,United States,0,25,131
+12976,0,48,20,0,24.7,0.14,0,1999,Sun Valley,Nevada,United States,1,25,0
+13071,134,70,0,0,28.9,0.542,1,1998,North Plainfield,New Jersey,United States,2,26,134
+13142,72,78,25,0,31.6,0.28,0,1983,Hermitage,Pennsylvania,United States,9,41,72
+13221,130,70,13,105,25.9,0.472,0,1999,Bloomfield,New Jersey,United States,1,25,25
+13230,90,60,0,0,23.5,0.191,0,1996,Beaverton,Oregon,United States,2,28,90
+13238,99,68,38,0,32.8,0.145,0,1988,Lubbock,Texas,United States,4,36,99
+13253,133,84,0,0,40.2,0.696,0,1984,Augusta,Maine,United States,7,40,133
+13265,164,82,43,67,32.8,0.341,0,1971,Marshfield,Wisconsin,United States,1,53,97
+13271,99,54,28,83,34.0,0.499,0,1991,Fort Lee,New Jersey,United States,5,33,16
+13279,125,50,40,167,33.3,0.962,1,1993,Bloomington,Indiana,United States,1,31,42
+13294,94,76,18,66,31.6,0.649,0,1998,Reading,Massachusetts,United States,2,26,28
+13319,181,64,30,180,34.1,0.328,1,1983,Caledonia,Wisconsin,United States,1,41,1
+13332,125,70,26,115,31.1,0.205,1,1980,Rocklin,California,United States,10,44,10
+13366,85,55,20,0,24.4,0.136,0,1979,Reno,Nevada,United States,8,45,85
+13386,115,0,0,0,0.0,0.261,1,1991,Stow,Ohio,United States,10,33,115
+13428,73,60,0,0,26.8,0.268,0,1994,Wooster,Ohio,United States,5,30,73
+13431,109,58,18,116,28.5,0.219,0,1999,San Jacinto,California,United States,1,25,7
+13449,177,60,29,478,34.6,1.072,1,2000,Jeffersonville,Indiana,United States,0,24,301
+13456,105,64,41,142,41.5,0.173,0,1999,Lewiston Orchards,Idaho,United States,0,25,37
+13460,132,0,0,0,32.9,0.302,1,1998,Cranston,Rhode Island,United States,4,26,132
+13462,100,70,26,50,30.8,0.597,0,2000,Saint Paul,Minnesota,United States,0,24,50
+13573,164,84,21,0,30.8,0.831,1,1989,Bloomingdale,Florida,United States,9,35,164
+13603,117,0,0,0,33.8,0.932,0,1977,Marion,Illinois,United States,0,47,117
+13611,153,88,37,140,40.6,1.174,0,1982,Great Bend,Kansas,United States,13,42,13
+13614,91,68,0,0,24.2,0.2,0,1963,Reedley,California,United States,9,61,91
+13664,129,0,30,0,39.9,0.569,1,1977,Secaucus,New Jersey,United States,13,47,129
+13693,147,74,25,293,34.9,0.385,0,1991,Catalina Foothills,Arizona,United States,4,33,146
+13740,189,110,31,0,28.5,0.68,0,1984,Waltham,Massachusetts,United States,4,40,189
+13742,109,80,31,0,35.9,1.127,1,1978,Seymour,Indiana,United States,7,46,109
+13802,80,0,0,0,0.0,0.174,0,1999,Meridian,Idaho,United States,3,25,80
+13998,90,70,17,0,27.3,0.085,0,1999,Sherrelwood,Colorado,United States,2,25,90
+14026,141,0,0,0,30.0,0.761,1,1994,Hueytown,Alabama,United States,3,30,141
+14054,104,72,0,0,31.2,0.465,1,1983,Salem,New Hampshire,United States,13,41,104
+14055,155,62,26,495,34.0,0.543,1,1975,Old Bridge,New Jersey,United States,8,49,340
+14059,81,86,16,66,27.5,0.306,0,1999,Smithfield,Rhode Island,United States,3,25,15
+14083,143,94,33,146,36.6,0.254,1,1970,Universal City,California,United States,11,54,3
+14092,116,72,12,87,22.1,0.463,0,1984,Portsmouth,New Hampshire,United States,4,40,29
+14110,136,84,35,130,28.3,0.26,1,1979,Brighton,Colorado,United States,11,45,6
+14124,115,64,22,0,30.8,0.421,0,2000,Surprise,Arizona,United States,2,24,115
+14136,164,78,0,0,32.8,0.148,1,1976,Pampa,Texas,United States,9,48,164
+14190,122,68,0,0,35.0,0.394,0,1992,Fortuna Foothills,Arizona,United States,4,32,122
+14219,167,106,46,231,37.6,0.165,1,1978,Windsor,Colorado,United States,8,46,64
+14222,144,82,26,285,32.0,0.452,1,1963,Derry Village,New Hampshire,United States,5,61,141
+14223,158,84,41,210,39.4,0.395,1,1992,Fountain Hills,Arizona,United States,5,32,52
+14245,143,86,30,330,30.1,0.892,0,1998,Charleston,Illinois,United States,1,26,187
+14252,194,68,28,0,35.9,0.745,1,1980,Gadsden,Alabama,United States,7,44,194
+14268,88,58,11,54,24.8,0.267,0,1999,Warren,Ohio,United States,3,25,34
+14338,183,94,0,0,40.8,1.461,0,1976,Burlington,Kentucky,United States,6,48,183
+14370,108,88,19,0,27.1,0.4,0,1997,Green Valley,Arizona,United States,1,27,108
+14381,117,88,24,145,34.5,0.403,1,1981,Mesa,Arizona,United States,1,43,28
+14442,68,70,32,66,25.0,0.187,0,1996,Mandan,North Dakota,United States,2,28,2
+14455,91,80,0,0,32.4,0.601,0,1994,Shoreview,Minnesota,United States,0,30,91
+14457,143,84,23,310,42.4,1.076,0,1999,Lawrence,Indiana,United States,1,25,167
+14475,117,96,0,0,28.7,0.157,0,1991,Juneau,Alaska,United States,6,33,117
+14492,137,68,14,148,24.8,0.143,0,2000,El Paso,Texas,United States,0,24,11
+14537,121,70,32,95,39.1,0.886,0,1998,Carbondale,Illinois,United States,2,26,26
+14546,122,56,0,0,33.3,1.114,1,1988,Richmond,Indiana,United States,9,36,122
+14563,146,56,0,0,29.7,0.564,0,1992,Sayreville Junction,New Jersey,United States,1,32,146
+14565,107,72,30,82,30.8,0.821,0,1997,Bayonet Point,Florida,United States,1,27,25
+14580,109,75,26,0,36.0,0.546,0,1961,Palisades Park,New Jersey,United States,5,63,109
+14585,139,64,35,140,28.6,0.411,0,1995,Prescott Valley,Arizona,United States,5,29,1
+14599,97,64,19,82,18.2,0.299,0,2000,Barrington,Rhode Island,United States,1,24,15
+14602,108,72,43,75,36.1,0.263,0,1988,Toledo,Ohio,United States,5,36,33
+14675,145,88,34,165,30.3,0.771,1,1968,Montgomery,Alabama,United States,9,56,20
+14779,84,64,23,115,36.9,0.471,0,1993,Bergenfield,New Jersey,United States,1,31,31
+14817,83,68,0,0,18.2,0.624,0,1994,Fargo,North Dakota,United States,1,30,83
+14828,178,84,0,0,39.9,0.331,1,1980,Eau Claire,Wisconsin,United States,7,44,178
+14834,117,66,31,188,30.8,0.493,0,1999,East Orange,New Jersey,United States,0,25,71
+14850,105,80,45,191,33.7,0.711,1,1992,South Portland Gardens,Maine,United States,2,32,86
+14872,79,60,42,48,43.5,0.678,0,1998,Wakefield,Massachusetts,United States,1,26,31
+14932,112,78,50,140,39.4,0.175,0,1997,Moscow,Idaho,United States,2,27,28
+14968,151,78,32,210,42.9,0.516,1,1985,Kearny,New Jersey,United States,8,39,59
+14971,95,64,0,0,32.0,0.161,1,1990,Boulder,Colorado,United States,4,34,95
+15010,117,86,30,105,39.1,0.251,0,1979,Turlock,California,United States,5,45,12
+15092,107,74,30,100,33.6,0.404,0,1998,Oro Valley,Arizona,United States,2,26,7
+15114,155,74,17,96,26.6,0.433,1,1994,Aliso Viejo,California,United States,2,30,59
+15130,91,64,24,0,29.2,0.192,0,2000,Bethany,Oregon,United States,1,24,91
+15180,92,62,0,0,25.9,0.167,0,1990,Eagle,Idaho,United States,10,34,92
+15196,179,90,27,0,44.1,0.686,1,1998,Wellesley,Massachusetts,United States,0,26,179
+15224,128,78,0,0,21.1,0.268,0,1966,Youngstown,Ohio,United States,3,58,128
+15235,95,70,32,0,32.1,0.612,0,1997,White Bear Lake,Minnesota,United States,4,27,95
+15260,118,80,0,0,42.9,0.693,1,2000,Yarmouth,Massachusetts,United States,2,24,118
+15287,128,80,0,0,34.6,0.144,0,1976,Horizon City,Texas,United States,5,48,128
+15295,100,68,23,81,31.6,0.949,0,1993,Quincy,Illinois,United States,3,31,19
+15348,129,76,28,122,35.9,0.28,0,1982,Johnstown,Pennsylvania,United States,10,42,7
+15396,102,75,23,0,0.0,0.572,0,2000,South Old Bridge,New Jersey,United States,0,24,102
+15400,120,72,22,56,20.8,0.733,0,1973,Center Point,Alabama,United States,9,51,64
+15408,125,58,0,0,31.6,0.151,0,1997,Cedar City,Utah,United States,3,27,125
+15460,144,58,33,135,31.6,0.422,1,1996,Tempe Junction,Arizona,United States,2,28,9
+15549,171,72,33,135,33.3,0.199,1,1997,Redlands,California,United States,3,27,36
+15556,139,46,19,83,28.7,0.654,0,1999,Saugus,Massachusetts,United States,1,25,56
+15564,166,72,19,175,25.8,0.587,1,1970,Richfield,Minnesota,United States,5,54,9
+15583,156,86,0,0,24.8,0.23,1,1968,San Rafael,California,United States,9,56,156
+15612,108,62,32,56,25.2,0.128,0,2000,Enterprise,Nevada,United States,2,24,52
+15616,120,0,0,0,30.0,0.183,1,1983,Missoula,Montana,United States,8,41,120
+15621,121,72,23,112,26.2,0.245,0,1991,Sun City,California,United States,5,33,9
+15643,103,66,0,0,24.3,0.249,0,1992,Truckee,California,United States,6,32,103
+15660,102,76,37,0,32.9,0.665,1,1975,Southbridge,Massachusetts,United States,9,49,102
+15663,138,0,0,0,36.3,0.933,1,1996,Mattoon,Illinois,United States,0,28,138
+15722,147,76,0,0,39.4,0.257,1,1978,Westmont,California,United States,7,46,147
+15785,79,80,25,37,25.4,0.583,0,1999,Plymouth,Minnesota,United States,1,25,42
+15788,87,68,34,77,37.6,0.401,0,1997,Lake Havasu City,Arizona,United States,1,27,10
+15791,84,0,0,0,0.0,0.304,0,2000,Newport,Rhode Island,United States,2,24,84
+15799,146,78,0,0,38.5,0.52,1,1954,Linden,New Jersey,United States,4,70,146
+15804,100,88,60,110,46.8,0.962,0,1990,Broad Ripple,Indiana,United States,0,34,10
+15814,121,66,30,165,34.3,0.203,1,1988,Ridgecrest,California,United States,0,36,44
+15824,88,78,30,0,27.6,0.258,0,1984,Winter Gardens,California,United States,5,40,88
+15828,102,64,46,78,40.6,0.496,0,2000,Elmwood Park,New Jersey,United States,0,24,24
+15830,100,66,29,196,32.0,0.444,0,1979,Omaha,Nebraska,United States,1,45,96
+15851,94,72,18,0,23.1,0.595,0,1965,Saint Michael,Minnesota,United States,10,59,94
+15856,127,46,21,335,34.4,0.176,0,1999,Nampa,Idaho,United States,2,25,208
+15893,105,70,32,68,30.8,0.122,0,1984,Las Cruces,New Mexico,United States,6,40,37
+15911,113,44,13,0,22.4,0.14,0,1999,Sunrise Manor,Nevada,United States,3,25,113
+15951,148,72,35,0,33.6,0.627,1,1971,Jamestown,North Dakota,United States,6,53,148
+16001,151,70,40,271,41.8,0.742,1,1983,Enterprise,Alabama,United States,12,41,120
+16025,102,44,20,94,30.8,0.4,0,1995,Kingman,Arizona,United States,3,29,8
+16035,147,75,0,0,29.9,0.434,0,1993,Alum Rock,California,United States,5,31,147
+16039,126,88,36,108,38.5,0.349,0,1972,Oconomowoc,Wisconsin,United States,8,52,18
+16040,122,64,32,156,35.1,0.692,1,1991,Winthrop,Massachusetts,United States,1,33,34
+16049,136,70,32,110,37.1,0.153,1,1978,Washington,Utah,United States,15,46,26
+16066,108,68,20,0,27.3,0.787,0,1989,Dover,Delaware,United States,0,35,108
+16078,191,68,15,130,30.9,0.299,0,1987,Bristol,Rhode Island,United States,3,37,61
+16092,126,88,41,235,39.3,0.704,0,1994,Portland,Maine,United States,3,30,109
+16139,138,76,0,0,33.2,0.42,0,1986,Sun City West,Arizona,United States,11,38,138
+16142,91,68,32,210,39.9,0.381,0,1996,Bullhead City,Arizona,United States,0,28,119
+16166,163,72,0,0,39.0,1.222,1,1988,Lawrence,Kansas,United States,1,36,163
+16171,143,74,22,61,26.2,0.256,0,2000,West Hollywood,California,United States,1,24,82
+16188,137,108,0,0,48.8,0.227,1,1984,San Pablo,California,United States,5,40,137
+16198,147,85,54,0,42.8,0.375,0,1997,Bridgeport,Connecticut,United States,0,27,147
+16216,141,0,0,0,42.4,0.205,1,1992,Rohnert Park,California,United States,0,32,141
+16218,133,102,28,140,32.8,0.234,1,1976,Santa Fe Springs,California,United States,1,48,7
+16296,107,74,0,0,29.6,0.254,1,1990,Upland,California,United States,7,34,107
+16307,88,30,42,99,55.0,0.496,1,1995,Englewood,New Jersey,United States,1,29,11
+16324,84,50,23,76,30.4,0.968,0,2000,Clarksville,Indiana,United States,2,24,8
+16402,71,62,0,0,21.8,0.416,0,1995,Scottsdale,Arizona,United States,1,29,71
+16420,129,84,0,0,28.0,0.284,0,1994,McKeesport,Pennsylvania,United States,2,30,129
+16460,170,74,31,0,44.0,0.403,1,1978,Nogales,Arizona,United States,9,46,170
+16465,145,82,18,0,32.5,0.235,1,1951,Santa Paula,California,United States,4,73,145
+16483,111,84,40,0,46.8,0.925,1,1976,Godfrey,Illinois,United States,11,48,111
+16488,97,60,23,0,28.2,0.443,0,1999,Lincoln,Nebraska,United States,4,25,97
+16502,112,82,32,175,34.2,0.26,1,1985,Broomfield,Colorado,United States,9,39,63
+16507,95,72,0,0,36.8,0.485,0,1964,Cranford,New Jersey,United States,8,60,95
+16527,120,80,48,200,38.9,1.162,0,1980,Gardner,Kansas,United States,1,44,80
+16576,95,60,32,0,35.4,0.284,0,1993,Monroeville,Pennsylvania,United States,4,31,95
+16588,105,58,40,94,34.9,0.225,0,1996,San Marcos,California,United States,2,28,11
+16593,124,70,20,0,27.4,0.254,1,1985,Walnut Park,California,United States,0,39,124
+16599,105,84,0,0,27.9,0.741,1,1959,East Florence,Alabama,United States,0,65,105
+16620,124,56,13,105,21.8,0.452,0,2000,Dover,New Hampshire,United States,0,24,19
+16662,151,60,0,0,26.1,0.179,0,1999,Billings,Montana,United States,1,25,151
+16768,125,96,0,0,22.5,0.262,0,2000,Streetsboro,Ohio,United States,0,24,125
+16778,119,0,0,0,32.4,0.141,1,1997,Amarillo,Texas,United States,0,27,119
+16822,105,0,0,0,0.0,0.305,0,1997,Portsmouth,Rhode Island,United States,7,27,105
+16831,151,90,38,0,29.7,0.294,0,1985,Wayne,Pennsylvania,United States,4,39,151
+16851,111,72,47,207,37.1,1.39,1,1965,Shawnee,Kansas,United States,4,59,96
+16888,136,84,41,88,35.0,0.286,1,1986,New Castle,Pennsylvania,United States,5,38,48
+16896,134,74,33,60,25.9,0.46,0,1940,Nashua,New Hampshire,United States,9,84,74
+16900,125,70,24,110,24.3,0.221,0,1996,San Juan Capistrano,California,United States,1,28,15
+16903,101,86,37,0,45.6,1.136,1,1983,Shelbyville,Indiana,United States,10,41,101
+16918,92,62,25,41,19.5,0.482,0,1996,Cliffside Park,New Jersey,United States,1,28,51
+16936,132,80,0,0,34.4,0.402,1,1977,Maricopa,Arizona,United States,3,47,132
+16980,93,60,25,92,28.7,0.532,0,1999,Montclair,New Jersey,United States,0,25,1
+16986,110,76,0,0,27.8,0.237,0,1963,Selma,California,United States,8,61,110
+16999,114,64,0,0,27.4,0.732,1,1987,Paducah,Kentucky,United States,7,37,114
+17028,94,0,0,0,0.0,0.256,0,1996,West Puente Valley,California,United States,0,28,94
+17039,107,88,0,0,36.8,0.727,0,1990,Auburn Hills,Michigan,United States,6,34,107
+17094,81,72,15,76,30.1,0.547,0,1996,Paramus,New Jersey,United States,2,28,5
+17141,105,80,28,0,32.5,0.878,0,1995,Alton,Illinois,United States,6,29,105
+17145,110,92,0,0,37.6,0.191,0,1991,Bend,Oregon,United States,4,33,110
+17158,91,70,32,88,33.1,0.446,0,1999,Papillion,Nebraska,United States,4,25,3
+17175,137,90,41,0,32.0,0.391,0,1982,Florence,Arizona,United States,7,42,137
+17192,89,76,34,37,31.2,0.192,0,1998,Canby,Oregon,United States,1,26,52
+17211,90,0,0,0,28.0,0.61,0,1990,West Saint Paul,Minnesota,United States,4,34,90
+17270,129,0,0,0,38.5,0.304,0,1980,North Kingstown,Rhode Island,United States,2,44,129
+17347,152,90,33,29,26.8,0.731,1,1978,Bessemer,Alabama,United States,13,46,123
+17378,87,60,37,75,37.2,0.509,0,1999,Hoboken,New Jersey,United States,1,25,12
+17401,107,50,19,0,28.3,0.181,0,1992,Great Falls,Montana,United States,1,32,107
+17402,142,82,18,64,24.7,0.761,0,2000,Huntsville,Alabama,United States,2,24,78
+17407,118,70,0,0,44.5,0.904,0,1995,Decatur,Illinois,United States,4,29,118
+17462,108,62,24,0,26.0,0.223,0,1996,San Luis Obispo,California,United States,3,28,108
+17490,74,68,28,45,29.7,0.293,0,1998,State College,Pennsylvania,United States,3,26,29
+17492,89,62,0,0,22.5,0.142,0,1988,Del Rio,Texas,United States,9,36,89
+17593,78,48,0,0,33.7,0.654,0,1996,Shrewsbury,Massachusetts,United States,5,28,78
+17603,158,78,0,0,32.9,0.803,1,1990,Newark,Delaware,United States,4,34,158
+17609,88,78,29,76,32.0,0.365,0,1992,Wauwatosa,Wisconsin,United States,1,32,12
+17618,152,82,39,272,41.5,0.27,0,1994,Bethel Park,Pennsylvania,United States,0,30,120
+17626,157,72,21,168,25.6,0.123,0,1997,Rio Rancho,New Mexico,United States,1,27,11
+17661,116,74,29,0,32.3,0.66,1,1986,South Hadley,Massachusetts,United States,5,38,116
+17702,96,78,39,0,37.3,0.238,0,1981,South Gate,California,United States,3,43,96
+17726,81,74,41,57,46.3,1.096,0,1989,New Castle,Indiana,United States,1,35,24
+17736,165,90,33,680,52.3,0.427,0,1998,Adelanto,California,United States,0,26,515
+17748,107,76,0,0,45.3,0.686,0,1997,West Springfield,Massachusetts,United States,0,27,107
+17817,199,76,43,0,42.9,1.394,1,1999,Wichita,Kansas,United States,1,25,199
+17834,76,60,0,0,32.8,0.18,0,1980,Butte,Montana,United States,13,44,76
+17848,111,62,0,0,22.6,0.142,0,2000,Eagle Pass,Texas,United States,3,24,111
+17903,122,90,51,220,49.7,0.325,1,1990,Ashwaubenon,Wisconsin,United States,1,34,98
+17920,77,56,30,56,33.3,1.251,0,1997,Lenexa,Kansas,United States,1,27,21
+17963,75,64,24,55,29.7,0.37,0,1988,Weirton Heights,West Virginia,United States,2,36,20
+17995,100,54,28,105,37.8,0.498,0,1997,Fords,New Jersey,United States,2,27,5
